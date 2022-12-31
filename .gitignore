@@ -9,6 +9,7 @@
 /nb*
 /release.properties
 /target
+/.vscode
 
 # These are needed if running in IDE without properties set
 /ibderby
